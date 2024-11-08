@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<video controls id="myvideo">
+	<strong>loser</strong>
+</video>
+</body>
+</html>
